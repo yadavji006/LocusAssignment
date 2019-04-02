@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LocusAssignment</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Title</string>
+    <string name="type_comment">Type Comment</string>
+    <string name="provide_comment">Provide Comment</string>
+    <string name="submit">Submit</string>
+</resources>
